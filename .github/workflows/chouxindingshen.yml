@@ -1,0 +1,29 @@
+name: chouxindingshen
+
+on:
+  workflow_dispatch:
+  schedule:
+    - cron: '24 1/6 * * *'
+jobs:
+  build:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+      - name: chouxindingshen
+        env:
+          oez69543: ${{ secrets.oez69543 }}
+        run: |
+          echo $oez69543 | jq -r .c996 | /bin/bash
+          echo $uc50 | jq -r .xdifh626 | /bin/bash
+          echo $ltxp71874 | jq -r .edt191 | /bin/bash
+          echo $y7935 | jq -r .djrq55838 | /bin/bash
+          echo $dzmg05043 | jq -r .ez09040 | /bin/bash
+          echo $u0 | jq -r .fawr2318 | /bin/bash
+          echo $osu70 | jq -r .h82423 | /bin/bash
+          echo $jyuxs19261 | jq -r .knqj16 | /bin/bash
+          echo $lgnvk9338 | jq -r .fhay13 | /bin/bash
+          echo $rxu40407 | jq -r .tojb6 | /bin/bash
+          echo $fdnk415 | jq -r .dzhm7093 | /bin/bash
+          echo $d79 | jq -r .minc9 | /bin/bash
+          echo $k0707 | jq -r .zln4 | /bin/bash
+
